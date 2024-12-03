@@ -1,0 +1,1 @@
+This repository demonstrates a common React issue where the useEffect hook runs on every render instead of only when the specified dependencies change.  The bug.js file contains the problematic code, while bugSolution.js provides a corrected version that addresses the issue.
